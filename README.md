@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandro56664-2&label=Profile%20views&color=0e75b6&style=flat" alt="alejandro56664-2" /> </p>
 
-- 🌱 I’m currently learning Haskell and Pharo (Smalltalk dialect)
+- 🌱 I’m currently learning OCaml and Pharo (Smalltalk dialect)
 
 - 📫 How to reach me **ja.moralesv@outlook.com**
 
